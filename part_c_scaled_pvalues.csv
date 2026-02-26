@@ -1,0 +1,10 @@
+feature,coef,p_value
+const,36.92683533274224,0.0
+Age (day),7.280868798700012,8.605349289213765e-74
+Cement (component 1)(kg in a m^3 mixture),14.031874962233537,2.4921741567307823e-40
+Blast Furnace Slag (component 2)(kg in a m^3 mixture),10.480636750517094,6.431062503109769e-26
+Fly Ash (component 3)(kg in a m^3 mixture),6.8172420206590765,3.3043382121490787e-13
+Water  (component 4)(kg in a m^3 mixture),-2.9858067577622833,0.0017904819949334239
+Fine Aggregate (component 7)(kg in a m^3 mixture),2.769773037953142,0.0029734508814095533
+Coarse Aggregate  (component 6)(kg in a m^3 mixture),2.213063681455377,0.0055901491750180365
+Superplasticizer (component 5)(kg in a m^3 mixture),0.7009379731746888,0.2431143614983914
